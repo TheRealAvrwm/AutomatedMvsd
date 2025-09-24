@@ -9,5 +9,17 @@
       "pc": "PC_HWID_PLACEHOLDER",
       "mobile": "MOBILE_HWID_PLACEHOLDER"
     }
+  },
+  "305969": {
+    "robloxUsername": "M33TY0URM4KER",
+    "discordId": "898875807362080772",
+    "discordUsername": "cutethoughts",
+    "verified": true,
+    "hardware": {
+      "pc": null,
+      "mobile": null
+    },
+    "HWID1": "HWID1_PLACEHOLDER",
+    "HWID2": null
   }
 }
